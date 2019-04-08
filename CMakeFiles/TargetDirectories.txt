@@ -1,0 +1,3 @@
+/home/liuhongwei/workspace/c++primer/CMakeFiles/rebuild_cache.dir
+/home/liuhongwei/workspace/c++primer/CMakeFiles/cp15_5.dir
+/home/liuhongwei/workspace/c++primer/CMakeFiles/edit_cache.dir

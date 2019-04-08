@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cp15.5.dir/main.cpp.o  -o cp15.5 

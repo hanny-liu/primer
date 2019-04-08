@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liuhongwei/workspace/c++primer/bulk_quote.h
+quote.h
+/home/liuhongwei/workspace/c++primer/quote.h
+
+/home/liuhongwei/workspace/c++primer/disc_quote.h
+quote.h
+/home/liuhongwei/workspace/c++primer/quote.h
+
+/home/liuhongwei/workspace/c++primer/main.cpp
+quote.h
+/home/liuhongwei/workspace/c++primer/quote.h
+bulk_quote.h
+/home/liuhongwei/workspace/c++primer/bulk_quote.h
+disc_quote.h
+/home/liuhongwei/workspace/c++primer/disc_quote.h
+sales_quote.h
+/home/liuhongwei/workspace/c++primer/sales_quote.h
+
+/home/liuhongwei/workspace/c++primer/quote.h
+iostream
+-
+string
+-
+
+/home/liuhongwei/workspace/c++primer/sales_quote.h
+disc_quote.h
+/home/liuhongwei/workspace/c++primer/disc_quote.h
+

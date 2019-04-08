@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liuhongwei/workspace/c++primer/cp_15_20/base.h
+
+/home/liuhongwei/workspace/c++primer/cp_15_20/derived_from_private.h
+priv_derv.h
+/home/liuhongwei/workspace/c++primer/cp_15_20/priv_derv.h
+
+/home/liuhongwei/workspace/c++primer/cp_15_20/derived_from_public.h
+pub_derv.h
+/home/liuhongwei/workspace/c++primer/cp_15_20/pub_derv.h
+
+/home/liuhongwei/workspace/c++primer/cp_15_20/main.cpp
+iostream
+-
+base.h
+/home/liuhongwei/workspace/c++primer/cp_15_20/base.h
+pub_derv.h
+/home/liuhongwei/workspace/c++primer/cp_15_20/pub_derv.h
+priv_derv.h
+/home/liuhongwei/workspace/c++primer/cp_15_20/priv_derv.h
+derived_from_public.h
+/home/liuhongwei/workspace/c++primer/cp_15_20/derived_from_public.h
+derived_from_private.h
+/home/liuhongwei/workspace/c++primer/cp_15_20/derived_from_private.h
+
+/home/liuhongwei/workspace/c++primer/cp_15_20/priv_derv.h
+base.h
+/home/liuhongwei/workspace/c++primer/cp_15_20/base.h
+
+/home/liuhongwei/workspace/c++primer/cp_15_20/pub_derv.h
+base.h
+/home/liuhongwei/workspace/c++primer/cp_15_20/base.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cp_15_22.dir/main.cpp.o  -o cp_15_22 
